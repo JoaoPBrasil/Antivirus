@@ -6,12 +6,12 @@ En: A simple antivirus project (to check .exe and .bat), coded in Python.
 ## Back-end
 - Python
 
-### Estrutura de Organização
+## Estrutura de Organização
 Pt-BR: O código está localizado inteiro no arquivo Main.
 
 En: The entire code is located in the Main file.
 
-### Contribuições
+## Contribuições
 
 Pt-BR: Feito em conjunto com @WiniciusNeves (https://github.com/WiniciusNeves)
 
