@@ -10,3 +10,8 @@ En: A simple antivirus project (to check .exe and .bat), coded in Python.
 Pt-BR: O código está localizado inteiro no arquivo Main.
 
 En: The entire code is located in the Main file.
+
+###Contribuições
+
+Pt-BR: Feito em conjunto com @WiniciusNeves (https://github.com/WiniciusNeves)
+En: Coded in partnership with @WiniciusNeves (https://github.com/WiniciusNeves)
